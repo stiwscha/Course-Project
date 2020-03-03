@@ -1,0 +1,10 @@
+
+
+#1 Add a stock item
+#2 Update a stock item
+#3 Display detail of a stock
+#4 Display the stock list
+#5 Delete a stock item
+#6 Exit the program
+
+
